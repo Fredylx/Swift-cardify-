@@ -1,4 +1,4 @@
-# Swift Tutorial by Stanford (YouTube)
+# Swift Tutorial by Stanford's (YouTube)
 
 Welcome to the Swift Tutorial series offered by Stanford University on YouTube! This resource is provided completely free of charge.
 
